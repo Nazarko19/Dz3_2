@@ -1,0 +1,21 @@
+.wrap{
+    width: 20%;
+
+}
+
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.first1 {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 150px;
+
+}
+.user-box{
+    width: 50%;
+    text-align: center;
+}
